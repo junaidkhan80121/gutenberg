@@ -9,6 +9,7 @@
 
 ### Enhancements
 
+-   Use the UI SelectControl for Sort by and relative-date Unit settings ([#86167](https://github.com/WordPress/gutenberg/pull/86167)).
 -   DataForm: Tighten the line height of field values in the panel layout, so values that wrap onto several lines take less room ([#85828](https://github.com/WordPress/gutenberg/pull/85828)).
 -   Omit trailing ellipses from action button labels ([#85396](https://github.com/WordPress/gutenberg/pull/85396)).
 -   Render table bulk actions outside the table while preserving their placement over the column headers ([#85250](https://github.com/WordPress/gutenberg/pull/85250)).
